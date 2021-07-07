@@ -3,9 +3,11 @@
 
 @import 'jekyll-theme-hacker';
 nav {
-    width: 40%;
+    width: 15%;
     margin-right: 1em;
 }
 .container {
+    width: 85%;
     display: flex;
+    max-width: 2000px
 }
